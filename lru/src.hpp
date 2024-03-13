@@ -1,2 +1,1 @@
-#include "lru-std.hpp"
-#define _OUTPUT_
+#include "lru.hpp"
